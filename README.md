@@ -1,4 +1,4 @@
-# 👨‍💻 Senior Full Stack Developer
+# 👨‍💻 Senior Full-Stack Mobile App Developer
 
 I am a **Senior Full-Stack Mobile App Developer** with 12 years of experience in building scalable **MOBILE & WEB** applications and services. I specialize in both frontend and backend technologies, offering a versatile skill set for a wide range of development needs.
 
